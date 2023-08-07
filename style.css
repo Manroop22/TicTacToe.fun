@@ -15,3 +15,13 @@ nav{
 nav ul{
     list-style-type: none;
 }
+
+.gameContainer{
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+
+}
